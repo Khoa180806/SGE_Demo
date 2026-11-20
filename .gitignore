@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Build output
+reference/demo-build/dist/
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.log
+node_modules/
+target/
+dist/
